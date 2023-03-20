@@ -37,7 +37,6 @@ public class Main extends JFrame implements ActionListener {
         lLuasPermukaan = new JLabel();
         
         lTitle.setBounds(220,30,200,30);
-        lTitle.setPreferredSize(new Dimension(0,80));
         lTitle.setFont(new Font(null, Font.BOLD, 16));
         
         lPanjang.setBounds(80, 110, 100, 40);
